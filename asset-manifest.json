@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notesapp-MERN-Frontend/static/css/main.241d18b1.css",
+    "main.js": "/Notesapp-MERN-Frontend/static/js/main.e26d1df6.js",
+    "static/js/787.1d26515f.chunk.js": "/Notesapp-MERN-Frontend/static/js/787.1d26515f.chunk.js",
+    "index.html": "/Notesapp-MERN-Frontend/index.html",
+    "main.241d18b1.css.map": "/Notesapp-MERN-Frontend/static/css/main.241d18b1.css.map",
+    "main.e26d1df6.js.map": "/Notesapp-MERN-Frontend/static/js/main.e26d1df6.js.map",
+    "787.1d26515f.chunk.js.map": "/Notesapp-MERN-Frontend/static/js/787.1d26515f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241d18b1.css",
+    "static/js/main.e26d1df6.js"
+  ]
+}
